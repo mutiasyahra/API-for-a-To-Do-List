@@ -1,2 +1,2 @@
 # API-for-a-To-Do-List
-Name : Meutya Syahra Nim : 20230040072 Class : TI23T
+Create a simple API for a To-Do List application using routing in Express.js.
